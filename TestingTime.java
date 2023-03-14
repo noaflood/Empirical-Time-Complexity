@@ -102,6 +102,14 @@ public class TestingTime<T extends Comparable<T>>  {
       }
    }
 
+   // YOUR ALTERNATE SORTING ALGORTHIM HERE ------------------------------------
+
+   // public void quickSort(int[] array) {
+   //    
+   // }
+
+   // ---------------------------------------------------------------------------
+
    /**
     * Creates and returns a new array of specified length
     * filled with random integers.
