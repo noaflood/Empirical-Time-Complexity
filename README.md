@@ -5,7 +5,7 @@ A for-fun tool to experimentally determine the time complexity of a sorting algo
 Requirements:
 - Java programming language/ the JDK (https://www.javatpoint.com/javafx-how-to-install-java)
 - R programming language (https://www.dataquest.io/blog/installing-r-on-your-computer/) 
-- Integrated Development Environment of choice (Visual Studio Code: https://code.visualstudio.com/download)
+- Integrated Development Environment of choice (Visual Studio Code: (https://code.visualstudio.com/download)
 - R Studio or other R IDE of choice. (https://posit.co/download/rstudio-desktop/)
 
 To run your expirement:
