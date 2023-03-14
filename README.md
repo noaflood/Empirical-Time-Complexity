@@ -32,3 +32,7 @@ To run your expirement:
  N increases from trial to trial, and how random the numbers (or objects) are in each array.
  
  Not sure how true the Random class is, so maybe a better source of random could be used.
+ 
+ ### Future Updates: ###
+ - Add a way to update a graph in real time as each trial is executed. 
+ - Create a way run run multiple trials at every N, averaging at every N in real time so that the graph can visually be seen becoming more smooth as it approaches its true O(N).
