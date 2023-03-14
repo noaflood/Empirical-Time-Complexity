@@ -1,6 +1,6 @@
-# Make sure the source file path is correct
+# Make sure the source file path below is correct for your data location. 
 
-dataframe <- read.csv("/Users/your_username/Desktop/Empirically Finding 0(N)/data/output_data_1.csv", header = TRUE)
+dataframe <- read.csv("/Users/your_username/Desktop/Empirical-Time-Complexity/data/output_data_1.csv", header = TRUE)
 
 library(ggplot2)
 
