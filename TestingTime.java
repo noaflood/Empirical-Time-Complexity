@@ -194,7 +194,7 @@ public class TestingTime<T extends Comparable<T>>  {
 
       PrintWriter writer = null;
       try {
-          writer = new PrintWriter(new File("output_data_1.csv"));
+          writer = new PrintWriter(new File("output_data.csv"));
       } catch (FileNotFoundException e) {
           e.printStackTrace();
       }
