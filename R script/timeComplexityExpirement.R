@@ -1,6 +1,6 @@
 # Make sure the source file path below is correct for your data location. 
 
-dataframe <- read.csv("/Users/your_username/Desktop/Empirical-Time-Complexity/data/output_data_1.csv", header = TRUE)
+dataframe <- read.csv("your_file_absolute_path_here", header = TRUE)
 
 library(ggplot2)
 
@@ -13,3 +13,7 @@ ggplot(dataframe, aes(x = N, y = time)) +
 # this will produce a default format graph
 # using this package, you can alter your graph to your liking but I find the default looks fine.
 
+# save the plot to a file (R Studio will automatically display the plot; 
+# use this when using ggplot2 with visual studio code's R extension.)
+filename <- "myplot.png"
+ggsave(filename)
