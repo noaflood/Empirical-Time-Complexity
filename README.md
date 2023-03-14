@@ -6,13 +6,14 @@ Requirements:
 - Java programming language/ the JDK (https://www.javatpoint.com/javafx-how-to-install-java)
 - R programming language (https://www.dataquest.io/blog/installing-r-on-your-computer/) 
 - Integrated Development Environment of choice (Visual Studio Code: https://code.visualstudio.com/download)
+- (*****I think you can view R plots in Visual Studio Code if you install R and basic R exentions.)
 - R Studio or other R IDE of choice. (https://posit.co/download/rstudio-desktop/)
 
 To run your expirement:
 1. Clone this repo on your machine.
 2. Run TestingTime.java. (in terminal: 'javac TestingTime.java', 'java TestingTime.java')
 (Change the variables of the expirement or write an entirely new sorting alogirthm to test if you want.)
-3. Open the R script in R studio.
+3. Open the R script in R studio. (*or in Visual Studio Code with R extension installed.)
 4. Copy and paste the absolute path of your output data into the R script. (on mac: finder > right click file > hold the option key > "copy as path name")
 5. *Run the R script (will probably prompt you to install the ggplot package. this may take 2-3 minutes.)
 6. Observe the shiny new plot of your data in the "Plots" panel!
