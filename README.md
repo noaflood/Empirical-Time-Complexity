@@ -32,9 +32,3 @@ To run your expirement:
  N increases from trial to trial, and how random the numbers (or objects) are in each array.
  
  Not sure how true the Random class is, so maybe a better source of random could be used.
- 
-
-TO GET A GRAPH OF YOUR OUTPUT DATA:
- - Simply run the R script in R studio, ensuring that the source file path is correct.
-
- * ***You may have to install a package in R.***
