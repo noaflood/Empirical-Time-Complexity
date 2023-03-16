@@ -21,13 +21,13 @@ To run your expirement:
 ### Testing Time Class ###
  Includes an insertion sort algorithm that can be used to run trials of sorting arrays of N size. After all the sorting work is done, all trial data is stored in a csv file that can be used to graph a simple (x, y) plot using an R script.
  
- To measure the time complecity of a different type of sorting algorthm:
+ To measure the time complexity of a different type of sorting algorthm:
  1. Write the algorthm in a new method.
  3. Call that method in place of insertionSort() on line ~128
   
  For a smoother curve, increase the array size and decrease the "countBy" variable.
  
- For a curve with more variation that shows just how much variation can occur from trial to trial use smaller array lengths.
+ For a curve with more variation that shows just how much variation can occur from trial to trial, use smaller array lengths.
  
  Generally, to mess with the data output, you can change how big N gets, how much
  N increases from trial to trial, and how random the numbers (or objects) are in each array.
@@ -37,3 +37,4 @@ To run your expirement:
  ### Future Updates: ###
  - Add a way to update a graph in real time as each trial is executed. 
  - Create a way run run multiple trials at every N, averaging at every N in real time so that the graph can visually be seen becoming more smooth as it approaches its true O(N).
+ - Add accurate curve fitting
