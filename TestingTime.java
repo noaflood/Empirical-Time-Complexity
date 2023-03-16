@@ -9,7 +9,7 @@ import java.io.*;
  * trials of sorting arrays N = array size. Each trial is stored in a csv
  * file that can be used to graph a plot using an R script.
  * 
- * To measure the time complecity of a different type of sorting algorthm:
+ * To measure the time complexity of a different type of sorting algorthm:
  * 1. Write the algorthm in a new method.
  * 3. Call that method in place of insertionSort() on line ~128
  * 
