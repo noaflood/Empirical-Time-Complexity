@@ -6,7 +6,7 @@ Requirements:
 - Java programming language/ the JDK (https://www.javatpoint.com/javafx-how-to-install-java)
 - R programming language (https://www.dataquest.io/blog/installing-r-on-your-computer/) 
 - Integrated Development Environment of choice (Visual Studio Code: https://code.visualstudio.com/download)
-- (*****I think you can view R plots in Visual Studio Code if you install R and basic R exentions.)
+- (you can also obtain R plots in Visual Studio Code if you install R and some extensions.)
 - R Studio or other R IDE of choice. (https://posit.co/download/rstudio-desktop/)
 
 To run your expirement:
