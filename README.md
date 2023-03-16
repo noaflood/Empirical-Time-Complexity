@@ -35,6 +35,6 @@ To run your expirement:
  Not sure how true the Random class is, so maybe a better source of random could be used.
  
  ### Future Updates: ###
+  - (in R) Add accurate curve fitting with a display of an accurate T(N) equation along with the actual graph of the data.
  - Add a way to update a graph in real time as each trial is executed. 
  - Create a way run run multiple trials at every N, averaging at every N in real time so that the graph can visually be seen becoming more smooth as it approaches its true O(N).
- - Add accurate curve fitting
